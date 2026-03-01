@@ -1,6 +1,6 @@
 {
-  "homepage": "http://danielammartins.github.io/bictest",
   "name": "bictest",
+  "homepage": "http://danielammartins.github.io/bictest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
